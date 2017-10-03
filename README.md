@@ -12,7 +12,7 @@ Assumptions made:
 
 2) There is currently no functionality to add or remove tickets from events.
 
-3) There were no time constraints on any of the events
+3) There are no time constraints on any of the events
 
 4) Events are unique
 
