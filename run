@@ -1,0 +1,27 @@
+#!/usr/bin/ruby
+
+print "Running maven...\n"
+
+print `mvn clean`
+
+print `mvn package`
+
+print "---------------------------\n"
+
+print "                           \n"
+
+print "BUILD FINISHED.\n"
+
+print "                           \n"
+
+print "---------------------------\n"
+
+print "                           \n"
+
+print "Please run the program by running the following command\n"
+
+print "                           \n"
+
+print "java -cp target/viagogo-1.0-SNAPSHOT.jar interview.viagogo.App\n"
+
+
